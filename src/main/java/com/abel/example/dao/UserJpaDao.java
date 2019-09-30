@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * The Interface UserJpaDao.
  *
- * @author abel
+ * @author cbt
  */
 public interface UserJpaDao extends JpaRepository<User, Long> {
 
