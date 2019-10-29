@@ -12,7 +12,7 @@ import org.springframework.context.annotation.ComponentScan;
 import static org.springframework.boot.SpringApplication.run;
 
 /**
- * Created by yangyibo on 17/1/17.
+ * Created by cbt on 17/1/17.
  */
 
 @ComponentScan(basePackages ="com.abel.example")
